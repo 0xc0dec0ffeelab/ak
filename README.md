@@ -1,2 +1,1 @@
-# ak
-apache kafka labs
+# apache_kafka_practices
